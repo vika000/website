@@ -1,5 +1,8 @@
 <head>
 <style>
+html {
+	background-color: #4F5357;
+}
 p, body {
 margin : 0;
 font-family : Futura, Helvetica, sans-serif;
